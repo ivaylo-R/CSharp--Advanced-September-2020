@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - lab\Reverse Polish Notation\bin\Debug\netcoreapp3.1\Reverse Polish Notation.exe
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - lab\Reverse Polish Notation\bin\Debug\netcoreapp3.1\Reverse Polish Notation.deps.json
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - lab\Reverse Polish Notation\bin\Debug\netcoreapp3.1\Reverse Polish Notation.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - lab\Reverse Polish Notation\bin\Debug\netcoreapp3.1\Reverse Polish Notation.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - lab\Reverse Polish Notation\bin\Debug\netcoreapp3.1\Reverse Polish Notation.dll
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - lab\Reverse Polish Notation\bin\Debug\netcoreapp3.1\Reverse Polish Notation.pdb
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - lab\Reverse Polish Notation\obj\Debug\netcoreapp3.1\Reverse Polish Notation.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - lab\Reverse Polish Notation\obj\Debug\netcoreapp3.1\Reverse Polish Notation.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - lab\Reverse Polish Notation\obj\Debug\netcoreapp3.1\Reverse Polish Notation.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - lab\Reverse Polish Notation\obj\Debug\netcoreapp3.1\Reverse Polish Notation.dll
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - lab\Reverse Polish Notation\obj\Debug\netcoreapp3.1\Reverse Polish Notation.pdb

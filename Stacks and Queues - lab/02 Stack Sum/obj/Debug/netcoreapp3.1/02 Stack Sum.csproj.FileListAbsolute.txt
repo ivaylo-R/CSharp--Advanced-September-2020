@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - lab\02 Stack Sum\bin\Debug\netcoreapp3.1\02 Stack Sum.exe
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - lab\02 Stack Sum\bin\Debug\netcoreapp3.1\02 Stack Sum.deps.json
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - lab\02 Stack Sum\bin\Debug\netcoreapp3.1\02 Stack Sum.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - lab\02 Stack Sum\bin\Debug\netcoreapp3.1\02 Stack Sum.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - lab\02 Stack Sum\bin\Debug\netcoreapp3.1\02 Stack Sum.dll
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - lab\02 Stack Sum\bin\Debug\netcoreapp3.1\02 Stack Sum.pdb
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - lab\02 Stack Sum\obj\Debug\netcoreapp3.1\02 Stack Sum.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - lab\02 Stack Sum\obj\Debug\netcoreapp3.1\02 Stack Sum.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - lab\02 Stack Sum\obj\Debug\netcoreapp3.1\02 Stack Sum.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - lab\02 Stack Sum\obj\Debug\netcoreapp3.1\02 Stack Sum.dll
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - lab\02 Stack Sum\obj\Debug\netcoreapp3.1\02 Stack Sum.pdb

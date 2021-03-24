@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - lab\03 Simle Calculator\bin\Debug\netcoreapp3.1\03 Simle Calculator.exe
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - lab\03 Simle Calculator\bin\Debug\netcoreapp3.1\03 Simle Calculator.deps.json
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - lab\03 Simle Calculator\bin\Debug\netcoreapp3.1\03 Simle Calculator.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - lab\03 Simle Calculator\bin\Debug\netcoreapp3.1\03 Simle Calculator.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - lab\03 Simle Calculator\bin\Debug\netcoreapp3.1\03 Simle Calculator.dll
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - lab\03 Simle Calculator\bin\Debug\netcoreapp3.1\03 Simle Calculator.pdb
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - lab\03 Simle Calculator\obj\Debug\netcoreapp3.1\03 Simle Calculator.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - lab\03 Simle Calculator\obj\Debug\netcoreapp3.1\03 Simle Calculator.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - lab\03 Simle Calculator\obj\Debug\netcoreapp3.1\03 Simle Calculator.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - lab\03 Simle Calculator\obj\Debug\netcoreapp3.1\03 Simle Calculator.dll
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - lab\03 Simle Calculator\obj\Debug\netcoreapp3.1\03 Simle Calculator.pdb

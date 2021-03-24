@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - lab\05.PrintEvenNumbers\bin\Debug\netcoreapp3.1\05.PrintEvenNumbers.exe
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - lab\05.PrintEvenNumbers\bin\Debug\netcoreapp3.1\05.PrintEvenNumbers.deps.json
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - lab\05.PrintEvenNumbers\bin\Debug\netcoreapp3.1\05.PrintEvenNumbers.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - lab\05.PrintEvenNumbers\bin\Debug\netcoreapp3.1\05.PrintEvenNumbers.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - lab\05.PrintEvenNumbers\bin\Debug\netcoreapp3.1\05.PrintEvenNumbers.dll
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - lab\05.PrintEvenNumbers\bin\Debug\netcoreapp3.1\05.PrintEvenNumbers.pdb
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - lab\05.PrintEvenNumbers\obj\Debug\netcoreapp3.1\05.PrintEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - lab\05.PrintEvenNumbers\obj\Debug\netcoreapp3.1\05.PrintEvenNumbers.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - lab\05.PrintEvenNumbers\obj\Debug\netcoreapp3.1\05.PrintEvenNumbers.dll
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - lab\05.PrintEvenNumbers\obj\Debug\netcoreapp3.1\05.PrintEvenNumbers.pdb
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - lab\05.PrintEvenNumbers\obj\Debug\netcoreapp3.1\05.PrintEvenNumbers.csprojAssemblyReference.cache
