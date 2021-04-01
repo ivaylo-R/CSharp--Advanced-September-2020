@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - Exercise\08 Balanced Paratheses\bin\Debug\netcoreapp3.1\08 Balanced Paratheses.exe
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - Exercise\08 Balanced Paratheses\bin\Debug\netcoreapp3.1\08 Balanced Paratheses.deps.json
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - Exercise\08 Balanced Paratheses\bin\Debug\netcoreapp3.1\08 Balanced Paratheses.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - Exercise\08 Balanced Paratheses\bin\Debug\netcoreapp3.1\08 Balanced Paratheses.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - Exercise\08 Balanced Paratheses\bin\Debug\netcoreapp3.1\08 Balanced Paratheses.dll
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - Exercise\08 Balanced Paratheses\bin\Debug\netcoreapp3.1\08 Balanced Paratheses.pdb
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - Exercise\08 Balanced Paratheses\obj\Debug\netcoreapp3.1\08 Balanced Paratheses.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - Exercise\08 Balanced Paratheses\obj\Debug\netcoreapp3.1\08 Balanced Paratheses.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - Exercise\08 Balanced Paratheses\obj\Debug\netcoreapp3.1\08 Balanced Paratheses.dll
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - Exercise\08 Balanced Paratheses\obj\Debug\netcoreapp3.1\08 Balanced Paratheses.pdb
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - Exercise\08 Balanced Paratheses\obj\Debug\netcoreapp3.1\08 Balanced Paratheses.csprojAssemblyReference.cache

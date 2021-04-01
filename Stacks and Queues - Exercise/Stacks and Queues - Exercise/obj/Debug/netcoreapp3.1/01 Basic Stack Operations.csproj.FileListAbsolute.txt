@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - Exercise\Stacks and Queues - Exercise\bin\Debug\netcoreapp3.1\01 Basic Stack Operations.exe
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - Exercise\Stacks and Queues - Exercise\bin\Debug\netcoreapp3.1\01 Basic Stack Operations.deps.json
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - Exercise\Stacks and Queues - Exercise\bin\Debug\netcoreapp3.1\01 Basic Stack Operations.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - Exercise\Stacks and Queues - Exercise\bin\Debug\netcoreapp3.1\01 Basic Stack Operations.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - Exercise\Stacks and Queues - Exercise\bin\Debug\netcoreapp3.1\01 Basic Stack Operations.dll
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - Exercise\Stacks and Queues - Exercise\bin\Debug\netcoreapp3.1\01 Basic Stack Operations.pdb
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - Exercise\Stacks and Queues - Exercise\obj\Debug\netcoreapp3.1\01 Basic Stack Operations.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - Exercise\Stacks and Queues - Exercise\obj\Debug\netcoreapp3.1\01 Basic Stack Operations.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - Exercise\Stacks and Queues - Exercise\obj\Debug\netcoreapp3.1\01 Basic Stack Operations.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - Exercise\Stacks and Queues - Exercise\obj\Debug\netcoreapp3.1\01 Basic Stack Operations.dll
+C:\Users\Ana-Maria\source\repos\C# Advanced\Stacks and Queues - Exercise\Stacks and Queues - Exercise\obj\Debug\netcoreapp3.1\01 Basic Stack Operations.pdb
