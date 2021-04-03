@@ -1,0 +1,10 @@
+C:\Users\Ana-Maria\source\repos\C# Advanced\02.MultiDimensional arrays\02.MultiDimensional arrays\bin\Debug\netcoreapp3.1\01 SumOfMatrixElements.exe
+C:\Users\Ana-Maria\source\repos\C# Advanced\02.MultiDimensional arrays\02.MultiDimensional arrays\bin\Debug\netcoreapp3.1\01 SumOfMatrixElements.deps.json
+C:\Users\Ana-Maria\source\repos\C# Advanced\02.MultiDimensional arrays\02.MultiDimensional arrays\bin\Debug\netcoreapp3.1\01 SumOfMatrixElements.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\C# Advanced\02.MultiDimensional arrays\02.MultiDimensional arrays\bin\Debug\netcoreapp3.1\01 SumOfMatrixElements.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\C# Advanced\02.MultiDimensional arrays\02.MultiDimensional arrays\bin\Debug\netcoreapp3.1\01 SumOfMatrixElements.dll
+C:\Users\Ana-Maria\source\repos\C# Advanced\02.MultiDimensional arrays\02.MultiDimensional arrays\bin\Debug\netcoreapp3.1\01 SumOfMatrixElements.pdb
+C:\Users\Ana-Maria\source\repos\C# Advanced\02.MultiDimensional arrays\02.MultiDimensional arrays\obj\Debug\netcoreapp3.1\01 SumOfMatrixElements.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\C# Advanced\02.MultiDimensional arrays\02.MultiDimensional arrays\obj\Debug\netcoreapp3.1\01 SumOfMatrixElements.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\C# Advanced\02.MultiDimensional arrays\02.MultiDimensional arrays\obj\Debug\netcoreapp3.1\01 SumOfMatrixElements.dll
+C:\Users\Ana-Maria\source\repos\C# Advanced\02.MultiDimensional arrays\02.MultiDimensional arrays\obj\Debug\netcoreapp3.1\01 SumOfMatrixElements.pdb

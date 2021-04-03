@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\C# Advanced\02.MultiDimensional arrays\05.SquareWithMaximumSum\bin\Debug\netcoreapp3.1\05.SquareWithMaximumSum.exe
+C:\Users\Ana-Maria\source\repos\C# Advanced\02.MultiDimensional arrays\05.SquareWithMaximumSum\bin\Debug\netcoreapp3.1\05.SquareWithMaximumSum.deps.json
+C:\Users\Ana-Maria\source\repos\C# Advanced\02.MultiDimensional arrays\05.SquareWithMaximumSum\bin\Debug\netcoreapp3.1\05.SquareWithMaximumSum.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\C# Advanced\02.MultiDimensional arrays\05.SquareWithMaximumSum\bin\Debug\netcoreapp3.1\05.SquareWithMaximumSum.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\C# Advanced\02.MultiDimensional arrays\05.SquareWithMaximumSum\bin\Debug\netcoreapp3.1\05.SquareWithMaximumSum.dll
+C:\Users\Ana-Maria\source\repos\C# Advanced\02.MultiDimensional arrays\05.SquareWithMaximumSum\bin\Debug\netcoreapp3.1\05.SquareWithMaximumSum.pdb
+C:\Users\Ana-Maria\source\repos\C# Advanced\02.MultiDimensional arrays\05.SquareWithMaximumSum\obj\Debug\netcoreapp3.1\05.SquareWithMaximumSum.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\C# Advanced\02.MultiDimensional arrays\05.SquareWithMaximumSum\obj\Debug\netcoreapp3.1\05.SquareWithMaximumSum.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\C# Advanced\02.MultiDimensional arrays\05.SquareWithMaximumSum\obj\Debug\netcoreapp3.1\05.SquareWithMaximumSum.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\C# Advanced\02.MultiDimensional arrays\05.SquareWithMaximumSum\obj\Debug\netcoreapp3.1\05.SquareWithMaximumSum.dll
+C:\Users\Ana-Maria\source\repos\C# Advanced\02.MultiDimensional arrays\05.SquareWithMaximumSum\obj\Debug\netcoreapp3.1\05.SquareWithMaximumSum.pdb

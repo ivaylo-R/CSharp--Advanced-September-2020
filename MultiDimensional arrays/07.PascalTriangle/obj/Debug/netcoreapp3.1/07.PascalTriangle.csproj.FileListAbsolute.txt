@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\C# Advanced\02.MultiDimensional arrays\07.PascalTriangle\bin\Debug\netcoreapp3.1\07.PascalTriangle.exe
+C:\Users\Ana-Maria\source\repos\C# Advanced\02.MultiDimensional arrays\07.PascalTriangle\bin\Debug\netcoreapp3.1\07.PascalTriangle.deps.json
+C:\Users\Ana-Maria\source\repos\C# Advanced\02.MultiDimensional arrays\07.PascalTriangle\bin\Debug\netcoreapp3.1\07.PascalTriangle.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\C# Advanced\02.MultiDimensional arrays\07.PascalTriangle\bin\Debug\netcoreapp3.1\07.PascalTriangle.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\C# Advanced\02.MultiDimensional arrays\07.PascalTriangle\bin\Debug\netcoreapp3.1\07.PascalTriangle.dll
+C:\Users\Ana-Maria\source\repos\C# Advanced\02.MultiDimensional arrays\07.PascalTriangle\bin\Debug\netcoreapp3.1\07.PascalTriangle.pdb
+C:\Users\Ana-Maria\source\repos\C# Advanced\02.MultiDimensional arrays\07.PascalTriangle\obj\Debug\netcoreapp3.1\07.PascalTriangle.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\C# Advanced\02.MultiDimensional arrays\07.PascalTriangle\obj\Debug\netcoreapp3.1\07.PascalTriangle.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\C# Advanced\02.MultiDimensional arrays\07.PascalTriangle\obj\Debug\netcoreapp3.1\07.PascalTriangle.dll
+C:\Users\Ana-Maria\source\repos\C# Advanced\02.MultiDimensional arrays\07.PascalTriangle\obj\Debug\netcoreapp3.1\07.PascalTriangle.pdb
+C:\Users\Ana-Maria\source\repos\C# Advanced\02.MultiDimensional arrays\07.PascalTriangle\obj\Debug\netcoreapp3.1\07.PascalTriangle.csprojAssemblyReference.cache

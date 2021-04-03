@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\C# Advanced\02.MultiDimensional arrays\03.PrimaryDiagonal\bin\Debug\netcoreapp3.1\03.PrimaryDiagonal.exe
+C:\Users\Ana-Maria\source\repos\C# Advanced\02.MultiDimensional arrays\03.PrimaryDiagonal\bin\Debug\netcoreapp3.1\03.PrimaryDiagonal.deps.json
+C:\Users\Ana-Maria\source\repos\C# Advanced\02.MultiDimensional arrays\03.PrimaryDiagonal\bin\Debug\netcoreapp3.1\03.PrimaryDiagonal.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\C# Advanced\02.MultiDimensional arrays\03.PrimaryDiagonal\bin\Debug\netcoreapp3.1\03.PrimaryDiagonal.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\C# Advanced\02.MultiDimensional arrays\03.PrimaryDiagonal\bin\Debug\netcoreapp3.1\03.PrimaryDiagonal.dll
+C:\Users\Ana-Maria\source\repos\C# Advanced\02.MultiDimensional arrays\03.PrimaryDiagonal\bin\Debug\netcoreapp3.1\03.PrimaryDiagonal.pdb
+C:\Users\Ana-Maria\source\repos\C# Advanced\02.MultiDimensional arrays\03.PrimaryDiagonal\obj\Debug\netcoreapp3.1\03.PrimaryDiagonal.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\C# Advanced\02.MultiDimensional arrays\03.PrimaryDiagonal\obj\Debug\netcoreapp3.1\03.PrimaryDiagonal.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\C# Advanced\02.MultiDimensional arrays\03.PrimaryDiagonal\obj\Debug\netcoreapp3.1\03.PrimaryDiagonal.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\C# Advanced\02.MultiDimensional arrays\03.PrimaryDiagonal\obj\Debug\netcoreapp3.1\03.PrimaryDiagonal.dll
+C:\Users\Ana-Maria\source\repos\C# Advanced\02.MultiDimensional arrays\03.PrimaryDiagonal\obj\Debug\netcoreapp3.1\03.PrimaryDiagonal.pdb
