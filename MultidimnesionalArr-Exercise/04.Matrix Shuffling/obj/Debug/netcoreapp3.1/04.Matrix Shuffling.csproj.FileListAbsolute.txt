@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\MultidimnesionalArr-Ex\04.Matrix Shuffling\bin\Debug\netcoreapp3.1\04.Matrix Shuffling.exe
+C:\Users\Ana-Maria\source\repos\MultidimnesionalArr-Ex\04.Matrix Shuffling\bin\Debug\netcoreapp3.1\04.Matrix Shuffling.deps.json
+C:\Users\Ana-Maria\source\repos\MultidimnesionalArr-Ex\04.Matrix Shuffling\bin\Debug\netcoreapp3.1\04.Matrix Shuffling.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\MultidimnesionalArr-Ex\04.Matrix Shuffling\bin\Debug\netcoreapp3.1\04.Matrix Shuffling.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\MultidimnesionalArr-Ex\04.Matrix Shuffling\bin\Debug\netcoreapp3.1\04.Matrix Shuffling.dll
+C:\Users\Ana-Maria\source\repos\MultidimnesionalArr-Ex\04.Matrix Shuffling\bin\Debug\netcoreapp3.1\04.Matrix Shuffling.pdb
+C:\Users\Ana-Maria\source\repos\MultidimnesionalArr-Ex\04.Matrix Shuffling\obj\Debug\netcoreapp3.1\04.Matrix Shuffling.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\MultidimnesionalArr-Ex\04.Matrix Shuffling\obj\Debug\netcoreapp3.1\04.Matrix Shuffling.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\MultidimnesionalArr-Ex\04.Matrix Shuffling\obj\Debug\netcoreapp3.1\04.Matrix Shuffling.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\MultidimnesionalArr-Ex\04.Matrix Shuffling\obj\Debug\netcoreapp3.1\04.Matrix Shuffling.dll
+C:\Users\Ana-Maria\source\repos\MultidimnesionalArr-Ex\04.Matrix Shuffling\obj\Debug\netcoreapp3.1\04.Matrix Shuffling.pdb

@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\MultidimnesionalArr-Ex\05.SnakeMoves\bin\Debug\netcoreapp3.1\05.Snake Moves.exe
+C:\Users\Ana-Maria\source\repos\MultidimnesionalArr-Ex\05.SnakeMoves\bin\Debug\netcoreapp3.1\05.Snake Moves.deps.json
+C:\Users\Ana-Maria\source\repos\MultidimnesionalArr-Ex\05.SnakeMoves\bin\Debug\netcoreapp3.1\05.Snake Moves.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\MultidimnesionalArr-Ex\05.SnakeMoves\bin\Debug\netcoreapp3.1\05.Snake Moves.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\MultidimnesionalArr-Ex\05.SnakeMoves\bin\Debug\netcoreapp3.1\05.Snake Moves.dll
+C:\Users\Ana-Maria\source\repos\MultidimnesionalArr-Ex\05.SnakeMoves\bin\Debug\netcoreapp3.1\05.Snake Moves.pdb
+C:\Users\Ana-Maria\source\repos\MultidimnesionalArr-Ex\05.SnakeMoves\obj\Debug\netcoreapp3.1\05.Snake Moves.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\MultidimnesionalArr-Ex\05.SnakeMoves\obj\Debug\netcoreapp3.1\05.Snake Moves.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\MultidimnesionalArr-Ex\05.SnakeMoves\obj\Debug\netcoreapp3.1\05.Snake Moves.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\MultidimnesionalArr-Ex\05.SnakeMoves\obj\Debug\netcoreapp3.1\05.Snake Moves.dll
+C:\Users\Ana-Maria\source\repos\MultidimnesionalArr-Ex\05.SnakeMoves\obj\Debug\netcoreapp3.1\05.Snake Moves.pdb

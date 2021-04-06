@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\MultidimnesionalArr-Ex\02.2x2 SquareInMatrix\bin\Debug\netcoreapp3.1\02.2x2 SquareInMatrix.exe
+C:\Users\Ana-Maria\source\repos\MultidimnesionalArr-Ex\02.2x2 SquareInMatrix\bin\Debug\netcoreapp3.1\02.2x2 SquareInMatrix.deps.json
+C:\Users\Ana-Maria\source\repos\MultidimnesionalArr-Ex\02.2x2 SquareInMatrix\bin\Debug\netcoreapp3.1\02.2x2 SquareInMatrix.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\MultidimnesionalArr-Ex\02.2x2 SquareInMatrix\bin\Debug\netcoreapp3.1\02.2x2 SquareInMatrix.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\MultidimnesionalArr-Ex\02.2x2 SquareInMatrix\bin\Debug\netcoreapp3.1\02.2x2 SquareInMatrix.dll
+C:\Users\Ana-Maria\source\repos\MultidimnesionalArr-Ex\02.2x2 SquareInMatrix\bin\Debug\netcoreapp3.1\02.2x2 SquareInMatrix.pdb
+C:\Users\Ana-Maria\source\repos\MultidimnesionalArr-Ex\02.2x2 SquareInMatrix\obj\Debug\netcoreapp3.1\02.2x2 SquareInMatrix.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\MultidimnesionalArr-Ex\02.2x2 SquareInMatrix\obj\Debug\netcoreapp3.1\02.2x2 SquareInMatrix.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\MultidimnesionalArr-Ex\02.2x2 SquareInMatrix\obj\Debug\netcoreapp3.1\02.2x2 SquareInMatrix.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\MultidimnesionalArr-Ex\02.2x2 SquareInMatrix\obj\Debug\netcoreapp3.1\02.2x2 SquareInMatrix.dll
+C:\Users\Ana-Maria\source\repos\MultidimnesionalArr-Ex\02.2x2 SquareInMatrix\obj\Debug\netcoreapp3.1\02.2x2 SquareInMatrix.pdb

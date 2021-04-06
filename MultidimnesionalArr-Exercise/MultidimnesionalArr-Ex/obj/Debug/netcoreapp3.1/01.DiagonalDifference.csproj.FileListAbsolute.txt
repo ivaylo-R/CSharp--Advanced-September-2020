@@ -1,0 +1,10 @@
+C:\Users\Ana-Maria\source\repos\MultidimnesionalArr-Ex\MultidimnesionalArr-Ex\bin\Debug\netcoreapp3.1\01.DiagonalDifference.exe
+C:\Users\Ana-Maria\source\repos\MultidimnesionalArr-Ex\MultidimnesionalArr-Ex\bin\Debug\netcoreapp3.1\01.DiagonalDifference.deps.json
+C:\Users\Ana-Maria\source\repos\MultidimnesionalArr-Ex\MultidimnesionalArr-Ex\bin\Debug\netcoreapp3.1\01.DiagonalDifference.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\MultidimnesionalArr-Ex\MultidimnesionalArr-Ex\bin\Debug\netcoreapp3.1\01.DiagonalDifference.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\MultidimnesionalArr-Ex\MultidimnesionalArr-Ex\bin\Debug\netcoreapp3.1\01.DiagonalDifference.dll
+C:\Users\Ana-Maria\source\repos\MultidimnesionalArr-Ex\MultidimnesionalArr-Ex\bin\Debug\netcoreapp3.1\01.DiagonalDifference.pdb
+C:\Users\Ana-Maria\source\repos\MultidimnesionalArr-Ex\MultidimnesionalArr-Ex\obj\Debug\netcoreapp3.1\01.DiagonalDifference.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\MultidimnesionalArr-Ex\MultidimnesionalArr-Ex\obj\Debug\netcoreapp3.1\01.DiagonalDifference.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\MultidimnesionalArr-Ex\MultidimnesionalArr-Ex\obj\Debug\netcoreapp3.1\01.DiagonalDifference.dll
+C:\Users\Ana-Maria\source\repos\MultidimnesionalArr-Ex\MultidimnesionalArr-Ex\obj\Debug\netcoreapp3.1\01.DiagonalDifference.pdb

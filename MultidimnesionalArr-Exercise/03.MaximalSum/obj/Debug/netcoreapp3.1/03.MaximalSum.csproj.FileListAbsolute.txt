@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\MultidimnesionalArr-Ex\03.MaximalSum\bin\Debug\netcoreapp3.1\03.MaximalSum.exe
+C:\Users\Ana-Maria\source\repos\MultidimnesionalArr-Ex\03.MaximalSum\bin\Debug\netcoreapp3.1\03.MaximalSum.deps.json
+C:\Users\Ana-Maria\source\repos\MultidimnesionalArr-Ex\03.MaximalSum\bin\Debug\netcoreapp3.1\03.MaximalSum.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\MultidimnesionalArr-Ex\03.MaximalSum\bin\Debug\netcoreapp3.1\03.MaximalSum.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\MultidimnesionalArr-Ex\03.MaximalSum\bin\Debug\netcoreapp3.1\03.MaximalSum.dll
+C:\Users\Ana-Maria\source\repos\MultidimnesionalArr-Ex\03.MaximalSum\bin\Debug\netcoreapp3.1\03.MaximalSum.pdb
+C:\Users\Ana-Maria\source\repos\MultidimnesionalArr-Ex\03.MaximalSum\obj\Debug\netcoreapp3.1\03.MaximalSum.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\MultidimnesionalArr-Ex\03.MaximalSum\obj\Debug\netcoreapp3.1\03.MaximalSum.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\MultidimnesionalArr-Ex\03.MaximalSum\obj\Debug\netcoreapp3.1\03.MaximalSum.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\MultidimnesionalArr-Ex\03.MaximalSum\obj\Debug\netcoreapp3.1\03.MaximalSum.dll
+C:\Users\Ana-Maria\source\repos\MultidimnesionalArr-Ex\03.MaximalSum\obj\Debug\netcoreapp3.1\03.MaximalSum.pdb
