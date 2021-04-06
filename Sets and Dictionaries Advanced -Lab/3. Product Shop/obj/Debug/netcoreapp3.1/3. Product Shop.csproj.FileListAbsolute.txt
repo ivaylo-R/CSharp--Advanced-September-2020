@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\03. Sets and Dictionaries Advanced -Lab\3. Product Shop\bin\Debug\netcoreapp3.1\3. Product Shop.exe
+C:\Users\Ana-Maria\source\repos\03. Sets and Dictionaries Advanced -Lab\3. Product Shop\bin\Debug\netcoreapp3.1\3. Product Shop.deps.json
+C:\Users\Ana-Maria\source\repos\03. Sets and Dictionaries Advanced -Lab\3. Product Shop\bin\Debug\netcoreapp3.1\3. Product Shop.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\03. Sets and Dictionaries Advanced -Lab\3. Product Shop\bin\Debug\netcoreapp3.1\3. Product Shop.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\03. Sets and Dictionaries Advanced -Lab\3. Product Shop\bin\Debug\netcoreapp3.1\3. Product Shop.dll
+C:\Users\Ana-Maria\source\repos\03. Sets and Dictionaries Advanced -Lab\3. Product Shop\bin\Debug\netcoreapp3.1\3. Product Shop.pdb
+C:\Users\Ana-Maria\source\repos\03. Sets and Dictionaries Advanced -Lab\3. Product Shop\obj\Debug\netcoreapp3.1\3. Product Shop.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\03. Sets and Dictionaries Advanced -Lab\3. Product Shop\obj\Debug\netcoreapp3.1\3. Product Shop.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\03. Sets and Dictionaries Advanced -Lab\3. Product Shop\obj\Debug\netcoreapp3.1\3. Product Shop.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\03. Sets and Dictionaries Advanced -Lab\3. Product Shop\obj\Debug\netcoreapp3.1\3. Product Shop.dll
+C:\Users\Ana-Maria\source\repos\03. Sets and Dictionaries Advanced -Lab\3. Product Shop\obj\Debug\netcoreapp3.1\3. Product Shop.pdb

@@ -1,0 +1,10 @@
+C:\Users\Ana-Maria\source\repos\03. Sets and Dictionaries Advanced -Lab\06. Parking Lot\bin\Debug\netcoreapp3.1\06. Parking Lot.exe
+C:\Users\Ana-Maria\source\repos\03. Sets and Dictionaries Advanced -Lab\06. Parking Lot\bin\Debug\netcoreapp3.1\06. Parking Lot.deps.json
+C:\Users\Ana-Maria\source\repos\03. Sets and Dictionaries Advanced -Lab\06. Parking Lot\bin\Debug\netcoreapp3.1\06. Parking Lot.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\03. Sets and Dictionaries Advanced -Lab\06. Parking Lot\bin\Debug\netcoreapp3.1\06. Parking Lot.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\03. Sets and Dictionaries Advanced -Lab\06. Parking Lot\bin\Debug\netcoreapp3.1\06. Parking Lot.dll
+C:\Users\Ana-Maria\source\repos\03. Sets and Dictionaries Advanced -Lab\06. Parking Lot\bin\Debug\netcoreapp3.1\06. Parking Lot.pdb
+C:\Users\Ana-Maria\source\repos\03. Sets and Dictionaries Advanced -Lab\06. Parking Lot\obj\Debug\netcoreapp3.1\06. Parking Lot.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\03. Sets and Dictionaries Advanced -Lab\06. Parking Lot\obj\Debug\netcoreapp3.1\06. Parking Lot.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\03. Sets and Dictionaries Advanced -Lab\06. Parking Lot\obj\Debug\netcoreapp3.1\06. Parking Lot.dll
+C:\Users\Ana-Maria\source\repos\03. Sets and Dictionaries Advanced -Lab\06. Parking Lot\obj\Debug\netcoreapp3.1\06. Parking Lot.pdb

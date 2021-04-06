@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\03. Sets and Dictionaries Advanced -Lab\07. SoftUni Party\bin\Debug\netcoreapp3.1\07. SoftUni Party.exe
+C:\Users\Ana-Maria\source\repos\03. Sets and Dictionaries Advanced -Lab\07. SoftUni Party\bin\Debug\netcoreapp3.1\07. SoftUni Party.deps.json
+C:\Users\Ana-Maria\source\repos\03. Sets and Dictionaries Advanced -Lab\07. SoftUni Party\bin\Debug\netcoreapp3.1\07. SoftUni Party.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\03. Sets and Dictionaries Advanced -Lab\07. SoftUni Party\bin\Debug\netcoreapp3.1\07. SoftUni Party.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\03. Sets and Dictionaries Advanced -Lab\07. SoftUni Party\bin\Debug\netcoreapp3.1\07. SoftUni Party.dll
+C:\Users\Ana-Maria\source\repos\03. Sets and Dictionaries Advanced -Lab\07. SoftUni Party\bin\Debug\netcoreapp3.1\07. SoftUni Party.pdb
+C:\Users\Ana-Maria\source\repos\03. Sets and Dictionaries Advanced -Lab\07. SoftUni Party\obj\Debug\netcoreapp3.1\07. SoftUni Party.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\03. Sets and Dictionaries Advanced -Lab\07. SoftUni Party\obj\Debug\netcoreapp3.1\07. SoftUni Party.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\03. Sets and Dictionaries Advanced -Lab\07. SoftUni Party\obj\Debug\netcoreapp3.1\07. SoftUni Party.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\03. Sets and Dictionaries Advanced -Lab\07. SoftUni Party\obj\Debug\netcoreapp3.1\07. SoftUni Party.dll
+C:\Users\Ana-Maria\source\repos\03. Sets and Dictionaries Advanced -Lab\07. SoftUni Party\obj\Debug\netcoreapp3.1\07. SoftUni Party.pdb
