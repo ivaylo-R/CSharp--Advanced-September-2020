@@ -1,0 +1,12 @@
+C:\Users\Ana-Maria\source\repos\04. StreamsFilesAndDirectories\04. StreamsFilesAndDirectories\bin\Debug\netcoreapp3.1\04. StreamsFilesAndDirectories.exe
+C:\Users\Ana-Maria\source\repos\04. StreamsFilesAndDirectories\04. StreamsFilesAndDirectories\bin\Debug\netcoreapp3.1\04. StreamsFilesAndDirectories.deps.json
+C:\Users\Ana-Maria\source\repos\04. StreamsFilesAndDirectories\04. StreamsFilesAndDirectories\bin\Debug\netcoreapp3.1\04. StreamsFilesAndDirectories.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\04. StreamsFilesAndDirectories\04. StreamsFilesAndDirectories\bin\Debug\netcoreapp3.1\04. StreamsFilesAndDirectories.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\04. StreamsFilesAndDirectories\04. StreamsFilesAndDirectories\bin\Debug\netcoreapp3.1\04. StreamsFilesAndDirectories.dll
+C:\Users\Ana-Maria\source\repos\04. StreamsFilesAndDirectories\04. StreamsFilesAndDirectories\bin\Debug\netcoreapp3.1\04. StreamsFilesAndDirectories.pdb
+C:\Users\Ana-Maria\source\repos\04. StreamsFilesAndDirectories\04. StreamsFilesAndDirectories\obj\Debug\netcoreapp3.1\04. StreamsFilesAndDirectories.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\04. StreamsFilesAndDirectories\04. StreamsFilesAndDirectories\obj\Debug\netcoreapp3.1\04. StreamsFilesAndDirectories.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\04. StreamsFilesAndDirectories\04. StreamsFilesAndDirectories\obj\Debug\netcoreapp3.1\04. StreamsFilesAndDirectories.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\04. StreamsFilesAndDirectories\04. StreamsFilesAndDirectories\obj\Debug\netcoreapp3.1\04. StreamsFilesAndDirectories.dll
+C:\Users\Ana-Maria\source\repos\04. StreamsFilesAndDirectories\04. StreamsFilesAndDirectories\obj\Debug\netcoreapp3.1\04. StreamsFilesAndDirectories.pdb
+C:\Users\Ana-Maria\source\repos\04. StreamsFilesAndDirectories\04. StreamsFilesAndDirectories\bin\Debug\netcoreapp3.1\Resources\01. Odd Lines\Input.txt

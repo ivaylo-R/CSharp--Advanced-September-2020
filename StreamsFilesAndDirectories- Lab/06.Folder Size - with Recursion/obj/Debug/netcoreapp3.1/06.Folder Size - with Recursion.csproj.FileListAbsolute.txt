@@ -1,0 +1,10 @@
+C:\Users\Ana-Maria\source\repos\04. StreamsFilesAndDirectories\06.Folder Size - with Recursion\bin\Debug\netcoreapp3.1\06.Folder Size - with Recursion.exe
+C:\Users\Ana-Maria\source\repos\04. StreamsFilesAndDirectories\06.Folder Size - with Recursion\bin\Debug\netcoreapp3.1\06.Folder Size - with Recursion.deps.json
+C:\Users\Ana-Maria\source\repos\04. StreamsFilesAndDirectories\06.Folder Size - with Recursion\bin\Debug\netcoreapp3.1\06.Folder Size - with Recursion.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\04. StreamsFilesAndDirectories\06.Folder Size - with Recursion\bin\Debug\netcoreapp3.1\06.Folder Size - with Recursion.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\04. StreamsFilesAndDirectories\06.Folder Size - with Recursion\bin\Debug\netcoreapp3.1\06.Folder Size - with Recursion.dll
+C:\Users\Ana-Maria\source\repos\04. StreamsFilesAndDirectories\06.Folder Size - with Recursion\bin\Debug\netcoreapp3.1\06.Folder Size - with Recursion.pdb
+C:\Users\Ana-Maria\source\repos\04. StreamsFilesAndDirectories\06.Folder Size - with Recursion\obj\Debug\netcoreapp3.1\06.Folder Size - with Recursion.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\04. StreamsFilesAndDirectories\06.Folder Size - with Recursion\obj\Debug\netcoreapp3.1\06.Folder Size - with Recursion.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\04. StreamsFilesAndDirectories\06.Folder Size - with Recursion\obj\Debug\netcoreapp3.1\06.Folder Size - with Recursion.dll
+C:\Users\Ana-Maria\source\repos\04. StreamsFilesAndDirectories\06.Folder Size - with Recursion\obj\Debug\netcoreapp3.1\06.Folder Size - with Recursion.pdb
