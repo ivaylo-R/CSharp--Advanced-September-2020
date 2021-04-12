@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\04. StreamsFilesAndDirectories-Ex\04. StreamsFilesAndDirectories-Ex\bin\Debug\netcoreapp3.1\01. Even lines.exe
+C:\Users\Ana-Maria\source\repos\04. StreamsFilesAndDirectories-Ex\04. StreamsFilesAndDirectories-Ex\bin\Debug\netcoreapp3.1\01. Even lines.deps.json
+C:\Users\Ana-Maria\source\repos\04. StreamsFilesAndDirectories-Ex\04. StreamsFilesAndDirectories-Ex\bin\Debug\netcoreapp3.1\01. Even lines.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\04. StreamsFilesAndDirectories-Ex\04. StreamsFilesAndDirectories-Ex\bin\Debug\netcoreapp3.1\01. Even lines.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\04. StreamsFilesAndDirectories-Ex\04. StreamsFilesAndDirectories-Ex\bin\Debug\netcoreapp3.1\01. Even lines.dll
+C:\Users\Ana-Maria\source\repos\04. StreamsFilesAndDirectories-Ex\04. StreamsFilesAndDirectories-Ex\bin\Debug\netcoreapp3.1\01. Even lines.pdb
+C:\Users\Ana-Maria\source\repos\04. StreamsFilesAndDirectories-Ex\04. StreamsFilesAndDirectories-Ex\obj\Debug\netcoreapp3.1\01. Even lines.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\04. StreamsFilesAndDirectories-Ex\04. StreamsFilesAndDirectories-Ex\obj\Debug\netcoreapp3.1\01. Even lines.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\04. StreamsFilesAndDirectories-Ex\04. StreamsFilesAndDirectories-Ex\obj\Debug\netcoreapp3.1\01. Even lines.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\04. StreamsFilesAndDirectories-Ex\04. StreamsFilesAndDirectories-Ex\obj\Debug\netcoreapp3.1\01. Even lines.dll
+C:\Users\Ana-Maria\source\repos\04. StreamsFilesAndDirectories-Ex\04. StreamsFilesAndDirectories-Ex\obj\Debug\netcoreapp3.1\01. Even lines.pdb
