@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\03. Sets And Dictionaries Advanced - Ex\02. Set Of Elements\bin\Debug\netcoreapp3.1\02. Set Of Elements.exe
+C:\Users\Ana-Maria\source\repos\03. Sets And Dictionaries Advanced - Ex\02. Set Of Elements\bin\Debug\netcoreapp3.1\02. Set Of Elements.deps.json
+C:\Users\Ana-Maria\source\repos\03. Sets And Dictionaries Advanced - Ex\02. Set Of Elements\bin\Debug\netcoreapp3.1\02. Set Of Elements.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\03. Sets And Dictionaries Advanced - Ex\02. Set Of Elements\bin\Debug\netcoreapp3.1\02. Set Of Elements.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\03. Sets And Dictionaries Advanced - Ex\02. Set Of Elements\bin\Debug\netcoreapp3.1\02. Set Of Elements.dll
+C:\Users\Ana-Maria\source\repos\03. Sets And Dictionaries Advanced - Ex\02. Set Of Elements\bin\Debug\netcoreapp3.1\02. Set Of Elements.pdb
+C:\Users\Ana-Maria\source\repos\03. Sets And Dictionaries Advanced - Ex\02. Set Of Elements\obj\Debug\netcoreapp3.1\02. Set Of Elements.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\03. Sets And Dictionaries Advanced - Ex\02. Set Of Elements\obj\Debug\netcoreapp3.1\02. Set Of Elements.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\03. Sets And Dictionaries Advanced - Ex\02. Set Of Elements\obj\Debug\netcoreapp3.1\02. Set Of Elements.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\03. Sets And Dictionaries Advanced - Ex\02. Set Of Elements\obj\Debug\netcoreapp3.1\02. Set Of Elements.dll
+C:\Users\Ana-Maria\source\repos\03. Sets And Dictionaries Advanced - Ex\02. Set Of Elements\obj\Debug\netcoreapp3.1\02. Set Of Elements.pdb

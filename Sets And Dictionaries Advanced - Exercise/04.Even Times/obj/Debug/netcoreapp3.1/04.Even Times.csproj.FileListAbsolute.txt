@@ -1,0 +1,10 @@
+C:\Users\Ana-Maria\source\repos\03. Sets And Dictionaries Advanced - Ex\04.Even Times\bin\Debug\netcoreapp3.1\04.Even Times.exe
+C:\Users\Ana-Maria\source\repos\03. Sets And Dictionaries Advanced - Ex\04.Even Times\bin\Debug\netcoreapp3.1\04.Even Times.deps.json
+C:\Users\Ana-Maria\source\repos\03. Sets And Dictionaries Advanced - Ex\04.Even Times\bin\Debug\netcoreapp3.1\04.Even Times.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\03. Sets And Dictionaries Advanced - Ex\04.Even Times\bin\Debug\netcoreapp3.1\04.Even Times.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\03. Sets And Dictionaries Advanced - Ex\04.Even Times\bin\Debug\netcoreapp3.1\04.Even Times.dll
+C:\Users\Ana-Maria\source\repos\03. Sets And Dictionaries Advanced - Ex\04.Even Times\bin\Debug\netcoreapp3.1\04.Even Times.pdb
+C:\Users\Ana-Maria\source\repos\03. Sets And Dictionaries Advanced - Ex\04.Even Times\obj\Debug\netcoreapp3.1\04.Even Times.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\03. Sets And Dictionaries Advanced - Ex\04.Even Times\obj\Debug\netcoreapp3.1\04.Even Times.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\03. Sets And Dictionaries Advanced - Ex\04.Even Times\obj\Debug\netcoreapp3.1\04.Even Times.dll
+C:\Users\Ana-Maria\source\repos\03. Sets And Dictionaries Advanced - Ex\04.Even Times\obj\Debug\netcoreapp3.1\04.Even Times.pdb
