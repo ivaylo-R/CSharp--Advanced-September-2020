@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\05.FunctionalProgramming - Lab\03.Count UpperCase Words\bin\Debug\netcoreapp3.1\03.Count UpperCase Words.exe
+C:\Users\Ana-Maria\source\repos\05.FunctionalProgramming - Lab\03.Count UpperCase Words\bin\Debug\netcoreapp3.1\03.Count UpperCase Words.deps.json
+C:\Users\Ana-Maria\source\repos\05.FunctionalProgramming - Lab\03.Count UpperCase Words\bin\Debug\netcoreapp3.1\03.Count UpperCase Words.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\05.FunctionalProgramming - Lab\03.Count UpperCase Words\bin\Debug\netcoreapp3.1\03.Count UpperCase Words.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\05.FunctionalProgramming - Lab\03.Count UpperCase Words\bin\Debug\netcoreapp3.1\03.Count UpperCase Words.dll
+C:\Users\Ana-Maria\source\repos\05.FunctionalProgramming - Lab\03.Count UpperCase Words\bin\Debug\netcoreapp3.1\03.Count UpperCase Words.pdb
+C:\Users\Ana-Maria\source\repos\05.FunctionalProgramming - Lab\03.Count UpperCase Words\obj\Debug\netcoreapp3.1\03.Count UpperCase Words.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\05.FunctionalProgramming - Lab\03.Count UpperCase Words\obj\Debug\netcoreapp3.1\03.Count UpperCase Words.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\05.FunctionalProgramming - Lab\03.Count UpperCase Words\obj\Debug\netcoreapp3.1\03.Count UpperCase Words.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\05.FunctionalProgramming - Lab\03.Count UpperCase Words\obj\Debug\netcoreapp3.1\03.Count UpperCase Words.dll
+C:\Users\Ana-Maria\source\repos\05.FunctionalProgramming - Lab\03.Count UpperCase Words\obj\Debug\netcoreapp3.1\03.Count UpperCase Words.pdb
