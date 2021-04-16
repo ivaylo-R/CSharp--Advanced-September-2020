@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\05.FunctionalProgramming-Ex\09. List Of Predicates\bin\Debug\netcoreapp3.1\09. List Of Predicates.exe
+C:\Users\Ana-Maria\source\repos\05.FunctionalProgramming-Ex\09. List Of Predicates\bin\Debug\netcoreapp3.1\09. List Of Predicates.deps.json
+C:\Users\Ana-Maria\source\repos\05.FunctionalProgramming-Ex\09. List Of Predicates\bin\Debug\netcoreapp3.1\09. List Of Predicates.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\05.FunctionalProgramming-Ex\09. List Of Predicates\bin\Debug\netcoreapp3.1\09. List Of Predicates.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\05.FunctionalProgramming-Ex\09. List Of Predicates\bin\Debug\netcoreapp3.1\09. List Of Predicates.dll
+C:\Users\Ana-Maria\source\repos\05.FunctionalProgramming-Ex\09. List Of Predicates\bin\Debug\netcoreapp3.1\09. List Of Predicates.pdb
+C:\Users\Ana-Maria\source\repos\05.FunctionalProgramming-Ex\09. List Of Predicates\obj\Debug\netcoreapp3.1\09. List Of Predicates.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\05.FunctionalProgramming-Ex\09. List Of Predicates\obj\Debug\netcoreapp3.1\09. List Of Predicates.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\05.FunctionalProgramming-Ex\09. List Of Predicates\obj\Debug\netcoreapp3.1\09. List Of Predicates.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\05.FunctionalProgramming-Ex\09. List Of Predicates\obj\Debug\netcoreapp3.1\09. List Of Predicates.dll
+C:\Users\Ana-Maria\source\repos\05.FunctionalProgramming-Ex\09. List Of Predicates\obj\Debug\netcoreapp3.1\09. List Of Predicates.pdb

@@ -1,0 +1,10 @@
+C:\Users\Ana-Maria\source\repos\05.FunctionalProgramming-Ex\05.FunctionalProgramming-Ex\bin\Debug\netcoreapp3.1\01.ActionPoint.exe
+C:\Users\Ana-Maria\source\repos\05.FunctionalProgramming-Ex\05.FunctionalProgramming-Ex\bin\Debug\netcoreapp3.1\01.ActionPoint.deps.json
+C:\Users\Ana-Maria\source\repos\05.FunctionalProgramming-Ex\05.FunctionalProgramming-Ex\bin\Debug\netcoreapp3.1\01.ActionPoint.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\05.FunctionalProgramming-Ex\05.FunctionalProgramming-Ex\bin\Debug\netcoreapp3.1\01.ActionPoint.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\05.FunctionalProgramming-Ex\05.FunctionalProgramming-Ex\bin\Debug\netcoreapp3.1\01.ActionPoint.dll
+C:\Users\Ana-Maria\source\repos\05.FunctionalProgramming-Ex\05.FunctionalProgramming-Ex\bin\Debug\netcoreapp3.1\01.ActionPoint.pdb
+C:\Users\Ana-Maria\source\repos\05.FunctionalProgramming-Ex\05.FunctionalProgramming-Ex\obj\Debug\netcoreapp3.1\01.ActionPoint.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\05.FunctionalProgramming-Ex\05.FunctionalProgramming-Ex\obj\Debug\netcoreapp3.1\01.ActionPoint.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\05.FunctionalProgramming-Ex\05.FunctionalProgramming-Ex\obj\Debug\netcoreapp3.1\01.ActionPoint.dll
+C:\Users\Ana-Maria\source\repos\05.FunctionalProgramming-Ex\05.FunctionalProgramming-Ex\obj\Debug\netcoreapp3.1\01.ActionPoint.pdb

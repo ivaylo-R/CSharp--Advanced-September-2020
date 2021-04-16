@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\05.FunctionalProgramming-Ex\05. Applied Arithmetics\bin\Debug\netcoreapp3.1\05. Applied Arithmetics.exe
+C:\Users\Ana-Maria\source\repos\05.FunctionalProgramming-Ex\05. Applied Arithmetics\bin\Debug\netcoreapp3.1\05. Applied Arithmetics.deps.json
+C:\Users\Ana-Maria\source\repos\05.FunctionalProgramming-Ex\05. Applied Arithmetics\bin\Debug\netcoreapp3.1\05. Applied Arithmetics.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\05.FunctionalProgramming-Ex\05. Applied Arithmetics\bin\Debug\netcoreapp3.1\05. Applied Arithmetics.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\05.FunctionalProgramming-Ex\05. Applied Arithmetics\bin\Debug\netcoreapp3.1\05. Applied Arithmetics.dll
+C:\Users\Ana-Maria\source\repos\05.FunctionalProgramming-Ex\05. Applied Arithmetics\bin\Debug\netcoreapp3.1\05. Applied Arithmetics.pdb
+C:\Users\Ana-Maria\source\repos\05.FunctionalProgramming-Ex\05. Applied Arithmetics\obj\Debug\netcoreapp3.1\05. Applied Arithmetics.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\05.FunctionalProgramming-Ex\05. Applied Arithmetics\obj\Debug\netcoreapp3.1\05. Applied Arithmetics.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\05.FunctionalProgramming-Ex\05. Applied Arithmetics\obj\Debug\netcoreapp3.1\05. Applied Arithmetics.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\05.FunctionalProgramming-Ex\05. Applied Arithmetics\obj\Debug\netcoreapp3.1\05. Applied Arithmetics.dll
+C:\Users\Ana-Maria\source\repos\05.FunctionalProgramming-Ex\05. Applied Arithmetics\obj\Debug\netcoreapp3.1\05. Applied Arithmetics.pdb

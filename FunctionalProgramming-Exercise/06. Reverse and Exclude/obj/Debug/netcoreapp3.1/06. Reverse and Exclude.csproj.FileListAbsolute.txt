@@ -1,0 +1,11 @@
+C:\Users\Ana-Maria\source\repos\05.FunctionalProgramming-Ex\06. Reverse and Exclude\bin\Debug\netcoreapp3.1\06. Reverse and Exclude.exe
+C:\Users\Ana-Maria\source\repos\05.FunctionalProgramming-Ex\06. Reverse and Exclude\bin\Debug\netcoreapp3.1\06. Reverse and Exclude.deps.json
+C:\Users\Ana-Maria\source\repos\05.FunctionalProgramming-Ex\06. Reverse and Exclude\bin\Debug\netcoreapp3.1\06. Reverse and Exclude.runtimeconfig.json
+C:\Users\Ana-Maria\source\repos\05.FunctionalProgramming-Ex\06. Reverse and Exclude\bin\Debug\netcoreapp3.1\06. Reverse and Exclude.runtimeconfig.dev.json
+C:\Users\Ana-Maria\source\repos\05.FunctionalProgramming-Ex\06. Reverse and Exclude\bin\Debug\netcoreapp3.1\06. Reverse and Exclude.dll
+C:\Users\Ana-Maria\source\repos\05.FunctionalProgramming-Ex\06. Reverse and Exclude\bin\Debug\netcoreapp3.1\06. Reverse and Exclude.pdb
+C:\Users\Ana-Maria\source\repos\05.FunctionalProgramming-Ex\06. Reverse and Exclude\obj\Debug\netcoreapp3.1\06. Reverse and Exclude.csprojAssemblyReference.cache
+C:\Users\Ana-Maria\source\repos\05.FunctionalProgramming-Ex\06. Reverse and Exclude\obj\Debug\netcoreapp3.1\06. Reverse and Exclude.AssemblyInfoInputs.cache
+C:\Users\Ana-Maria\source\repos\05.FunctionalProgramming-Ex\06. Reverse and Exclude\obj\Debug\netcoreapp3.1\06. Reverse and Exclude.AssemblyInfo.cs
+C:\Users\Ana-Maria\source\repos\05.FunctionalProgramming-Ex\06. Reverse and Exclude\obj\Debug\netcoreapp3.1\06. Reverse and Exclude.dll
+C:\Users\Ana-Maria\source\repos\05.FunctionalProgramming-Ex\06. Reverse and Exclude\obj\Debug\netcoreapp3.1\06. Reverse and Exclude.pdb
